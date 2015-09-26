@@ -6,3 +6,5 @@ xmoe.project@gmail.com
 
 --庆祝Rewrite动画化！  
 --萌喵来立flag了=。=  
+
+![image](https://github.com/xmoeproject/Rewriter/blob/master/Image.jpg)    
